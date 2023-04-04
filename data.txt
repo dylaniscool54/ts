@@ -1,1 +1,1 @@
-LEADER , nil , 0e79e368-ef8e-4ec9-9f2b-1767440f0060
+RANK , AdoreShadow , 570b7204-2241-4c69-bf44-fa35aac31ed1

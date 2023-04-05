@@ -1,1 +1,1 @@
-MSG , test
+MSG , hello

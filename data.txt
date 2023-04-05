@@ -1,1 +1,1 @@
-MSG , A , doom slayer
+MSG , its global , nippy2

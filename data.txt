@@ -1,1 +1,1 @@
-MSG , Good job! , PeaDrops
+MSG , GLOBAL , HardMetal7

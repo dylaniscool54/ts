@@ -1,1 +1,1 @@
-RANK , joeichiro_senpaii , 2d93bf7b-17b8-4da3-9310-bf824b657fce
+MSG , test

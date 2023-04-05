@@ -1,1 +1,1 @@
-MSG , hello
+MSG , g

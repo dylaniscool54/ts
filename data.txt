@@ -1,1 +1,1 @@
-MSG , W item , Dylann
+MSG , I wannna add commands to buy items from the server , Dylann

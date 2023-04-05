@@ -1,1 +1,1 @@
-MSG , im sorry bout that , Dylann
+MSG , i fixed release time not displaying correctly , Dylann

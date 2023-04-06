@@ -1,1 +1,1 @@
-MSG , make the items go limited every 3 days , Ty_ler
+MSG , add timer on them and keep how many until limited , Ty_ler

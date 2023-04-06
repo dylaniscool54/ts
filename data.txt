@@ -1,1 +1,1 @@
-MSG , wait where , Jazayy
+MSG , check <#1092773831258685440> , 32

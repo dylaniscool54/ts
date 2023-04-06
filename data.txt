@@ -1,1 +1,1 @@
-MSG , reset the game , Dylann
+MSG , i refreshed the server for the update , Dylann

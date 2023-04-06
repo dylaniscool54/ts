@@ -1,1 +1,1 @@
-MSG , 300 is the current top price , 32
+MSG , Me , Dylann

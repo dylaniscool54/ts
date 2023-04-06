@@ -1,1 +1,1 @@
-MSG , We are an AI program , Peaches
+MSG , We are not global chatting as there are no other servers. , Peaches

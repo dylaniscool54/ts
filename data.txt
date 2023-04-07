@@ -1,2 +1,1 @@
-MSG , DYLAN REMOVED DEBT
-W FIX , 32
+MSG , And im still in debt.. , 32

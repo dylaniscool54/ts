@@ -1,1 +1,1 @@
-MSG , <@904519383240544267> what gifts? , british cat
+MSG , TELL ME , british cat

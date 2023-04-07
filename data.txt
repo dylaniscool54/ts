@@ -1,1 +1,1 @@
-MSG , no , nester
+MSG , keep sword , nester

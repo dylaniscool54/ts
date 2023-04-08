@@ -1,1 +1,1 @@
-MSG , i will add tax now , Dylann
+MSG , 0.7 * , Dylann

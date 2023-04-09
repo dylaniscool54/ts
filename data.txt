@@ -1,1 +1,1 @@
-MSG , Money dupe? , Dylann
+MSG , And item dupe somehow , 45k

@@ -1,1 +1,1 @@
-MSG , wait so extensions are just executing local scripts on your end? , bud
+MSG , o , bud

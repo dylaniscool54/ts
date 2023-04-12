@@ -1,1 +1,1 @@
-MSG , you buy on separte item , 32
+MSG , then no , 32

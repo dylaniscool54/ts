@@ -1,1 +1,1 @@
-MSG , You need to hover over an item , PaeDraps
+MSG , Cool beans , PaeDraps

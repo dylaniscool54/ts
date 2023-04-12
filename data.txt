@@ -1,2 +1,1 @@
-MSG , L
-you'll never own the #2 serial , 32
+MSG , Still 42/51 , PaeDraps
